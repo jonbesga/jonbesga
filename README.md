@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning about marketing
 - 👯 I’m looking to collaborate on interesting side-projects.
 - 💬 Ask me about programming, science, finance, and philosophy.
 - 📫 How to reach me: [Twitter!](https://twitter.com/jonbesga)
