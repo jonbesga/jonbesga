@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Jon</h2> 
 
-<img src="https://komarev.com/ghpvc/?jonbesga&label=PROFILE%20VIEWS"  &color=red&style=flat" alt="jonbesga"/>
+<img src="https://komarev.com/ghpvc/?jonbesga" alt="jonbesga"/>
 
 ## **Languages and Tools**
 <p>
