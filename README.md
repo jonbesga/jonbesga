@@ -1,36 +1,25 @@
-<h1>Hi 👋, I'm Jon</h1> 
+# Hi 👋, I'm Jon
 
-<img src="https://komarev.com/ghpvc/?username=jonbesga" alt="jonbesga"/>
+📍 **London** | 🤖 **AI Engineer / Full Stack Engineer**
 
-<h2>Languages and Tools</h2>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="40px" height="40px>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakraui/chakraui-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40px" height="40px">
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<h2>GitHub Stats</h2>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jonbesga&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jonbesga&theme=dark&theme=black-ice&stroke=0000" />
-</p>
+## Projects
+
+- 🧠 **[Philosofriends](lu.ma/philofriends)** - London meetup group for in-person philosophical and intellectual discussions
+- 🖥️ **[CreateStickersOnline](createstickersonline.com)** - Generate stickers using AI
+- 📱 **[Grupos UNED](gruposuned.com)** - student-generated directory of WhatsApp and Telegram study groups by UNED subject
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/jonbesga)
