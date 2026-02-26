@@ -16,9 +16,9 @@
 
 ## Projects
 
-- 🧠 **[Philosofriends](lu.ma/philofriends)** - London meetup group for in-person philosophical and intellectual discussions
-- 🖥️ **[CreateStickersOnline](createstickersonline.com)** - Generate stickers using AI
-- 📱 **[Grupos UNED](gruposuned.com)** - student-generated directory of WhatsApp and Telegram study groups by UNED subject
+- 🧠 **[Philosofriends](https://lu.ma/philofriends)** - London meetup group for in-person philosophical and intellectual discussions
+- 🖥️ **[CreateStickersOnline](https://createstickersonline.com)** - Generate stickers using AI
+- 📱 **[Grupos UNED](https://gruposuned.com)** - student-generated directory of WhatsApp and Telegram study groups by UNED subject
 
 ## GitHub Activity
 
